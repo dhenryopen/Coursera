@@ -1,0 +1,70 @@
+1,10c1
+< ["Valjean", "Simplice"]
+< ["Myriel", "Count"]
+< ["Valjean", "MlleGillenormand"]
+< ["Valjean", "MmeMagloire"]
+< ["Valjean", "Labarre"]
+< ["Valjean", "Cosette"]
+< ["Myriel", "OldMan"]
+< ["Napoleon", "Myriel"]
+< ["Valjean", "Fantine"]
+< ["Valjean", "Judge"]
+---
+> ["MlleBaptistine", "Myriel"]
+12d2
+< ["Valjean", "Babet"]
+14,15c4,8
+< ["Valjean", "Montparnasse"]
+< ["Valjean", "Marguerite"]
+---
+> ["Fantine", "Valjean"]
+> ["Cosette", "Valjean"]
+> ["Babet", "Valjean"]
+> ["Valjean", "MlleBaptistine"]
+> ["Valjean", "Fantine"]
+17c10
+< ["MlleBaptistine", "Myriel"]
+---
+> ["Valjean", "Marguerite"]
+19c12,19
+< ["Valjean", "Woman1"]
+---
+> ["Valjean", "Babet"]
+> ["Valjean", "Gillenormand"]
+> ["Valjean", "Simplice"]
+> ["Valjean", "Cosette"]
+> ["Valjean", "Judge"]
+> ["Valjean", "Labarre"]
+> ["Valjean", "Montparnasse"]
+> ["Valjean", "MmeMagloire"]
+21c21,22
+< ["Myriel", "Geborand"]
+---
+> ["Valjean", "MlleGillenormand"]
+> ["Valjean", "Woman1"]
+23c24,46
+< ["Valjean", "Gillenormand"]
+---
+> ["MmeMagloire", "MlleBaptistine"]
+> ["MmeMagloire", "Valjean"]
+> ["Labarre", "Valjean"]
+> ["Montparnasse", "Valjean"]
+> ["Judge", "Valjean"]
+> ["Napoleon", "Myriel"]
+> ["Count", "Myriel"]
+> ["Isabeau", "Valjean"]
+> ["Woman1", "Valjean"]
+> ["Woman2", "Valjean"]
+> ["Simplice", "Valjean"]
+> ["Geborand", "Myriel"]
+> ["Gillenormand", "Valjean"]
+> ["Marguerite", "Valjean"]
+> ["Myriel", "Count"]
+> ["Myriel", "MlleBaptistine"]
+> ["Myriel", "OldMan"]
+> ["Myriel", "MmeMagloire"]
+> ["Myriel", "Geborand"]
+> ["Myriel", "Napoleon"]
+> ["OldMan", "Myriel"]
+> ["MmeDeR", "Valjean"]
+> ["MlleGillenormand", "Valjean"]
